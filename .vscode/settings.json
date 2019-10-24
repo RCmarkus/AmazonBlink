@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "c:\\-01- Service\\-20- Projects\\-05- PythonProjekte\\AmazonBlink\\blink_env\\Scripts\\python.exe"
+}
